@@ -9,10 +9,11 @@
 ## 🧩 About Me
 <p align="left">
 Hi! I’m Mahak — a data-driven Supply Chain Analyst who enjoys solving real business challenges with analytics.  
-I love exploring data, simplifying processes, and designing dashboards that actually *tell a story*.  
-My work revolves around **Excel, Power BI, SQL, Tableau and Python**, where I analyze trend and forecast demand.  
-Currently, I’m diving deeper into **data visualization and predictive analytics** — because turning raw numbers into insights that move the business forward is my favorite part of the job! 🌟  
+I love exploring data, simplifying processes, and designing dashboards that actually tell a story.  
+My work revolves around <strong>Excel, Power BI, SQL, Tableau and Python</strong>, where I analyze trend and forecast demand.  
+Currently, I’m diving deeper into <strong>data visualization and predictive analytics</strong> — because turning raw numbers into insights that move the business forward is my favorite part of the job! 🌟  
 </p>
+
 ---
 
 ## 🛠️ Skills
@@ -26,8 +27,7 @@ Currently, I’m diving deeper into **data visualization and predictive analytic
 ### 💡 Core Strengths  
 - Data Cleaning & Visualization  
 - Business Reporting  
-- Supply Chain Optimization
-- Forecasting & Trend Analysis  
+- Supply Chain Optimization 
 
 ---
 
@@ -37,7 +37,7 @@ Currently, I’m diving deeper into **data visualization and predictive analytic
   <a href="https://www.linkedin.com/in/mahakagarwal14/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Mahak%20Agarwal-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:ishi142001@gmail.com">
+  <a href="mailto:ishi142001@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-me-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
@@ -46,11 +46,8 @@ Currently, I’m diving deeper into **data visualization and predictive analytic
 
 ## 🎨 Hobbies & Interests
 
-- ☕ Experimenting with new dashboard themes and visual styles  
-- ✈️ Exploring how global logistics & trade networks work  
-- 📚 Reading about data visualization & productivity  
-- 🎵 Music + a cup of coffee while debugging Power Query  
-- 💬 Sharing ideas on data, supply chains, and automation  
+- 📚 Reading books
+- 🎵 Music + a cup of coffee ☕
 
 ---
 
